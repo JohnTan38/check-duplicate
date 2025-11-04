@@ -1,0 +1,22 @@
+{
+  "name": "check-duplicate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "next": "13.5.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "papaparse": "5.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.14",
+    "postcss": "8.4.24",
+    "tailwindcss": "3.4.7"
+  }
+}
