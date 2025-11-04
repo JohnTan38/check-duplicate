@@ -1,4 +1,4 @@
-# CSV Duplicate Flagger
+# CSV Duplicate Checker
 
 Minimal Next.js + Tailwind app to upload a CSV, select columns to compare, flag duplicate rows, view them in a scrollable table, and download results.
 
@@ -28,3 +28,4 @@ Next steps / improvements
 - Add pagination/virtualization for very large CSVs
 - Add settings for matching (case-sensitivity, trimming, null handling)
 - Add unit tests for duplicateUtils
+
