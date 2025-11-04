@@ -24,8 +24,6 @@ Notes and assumptions
 - Duplicate detection is case-insensitive and trims whitespace when comparing.
 
 Next steps / improvements
-- Add true drag-and-drop support
-- Add pagination/virtualization for very large CSVs
-- Add settings for matching (case-sensitivity, trimming, null handling)
-- Add unit tests for duplicateUtils
+- Add unit tests for duplicateUtils: completed
+
 
